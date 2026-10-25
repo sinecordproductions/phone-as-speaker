@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller output, ship the exe through GitHub Releases instead
+build/
+dist/
+*.zip
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Local logs
+*.log

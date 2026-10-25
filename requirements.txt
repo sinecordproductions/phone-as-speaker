@@ -1,0 +1,7 @@
+aiortc
+aiohttp
+pyaudiowpatch
+numpy
+customtkinter
+qrcode[pil]
+pystray
