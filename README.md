@@ -143,8 +143,6 @@ Anything else is recorded in the log file. Use **Open log folder** in Settings.
 **Developed by Muhammad Sayban**
 **At Sinecord Productions**
 
-Built with the help of Claude by Anthropic as an AI coding assistant.
-
 ## 📄 License
 
 This project is free and open source and is released into the **public domain** under [The Unlicense](LICENSE). Anyone can use, copy, modify, share or sell it for any purpose, with no permission needed. The libraries it uses keep their own licenses.
