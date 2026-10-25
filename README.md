@@ -5,12 +5,6 @@
 ### Turn any phone into a wireless speaker for your Windows laptop.
 **No app on the phone. No cables. No ads. Just scan, tap Play, and listen.**
 
-![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
-![WebRTC](https://img.shields.io/badge/streaming-WebRTC-FF6F00)
-![UI](https://img.shields.io/badge/UI-CustomTkinter-2b2b2b)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 **Developed by Muhammad Sayban**
 **At Sinecord Productions**
 
@@ -153,7 +147,7 @@ Built with the help of Claude by Anthropic as an AI coding assistant.
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE).
+This project is free and open source and is released into the **public domain** under [The Unlicense](LICENSE). Anyone can use, copy, modify, share or sell it for any purpose, with no permission needed. The libraries it uses keep their own licenses.
 
 ---
 
